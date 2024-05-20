@@ -1,7 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johirjsaybd&label=Profile%20views&color=0e75b6&style=flat" alt="johirjsaybd" /> </p>
+
 <h1 align="center">I'm Johir</h1>
 <h3 align="center">Facebook Ads Expert With GA4 & GTM || SEO Expert || Social Media Marketing Specialist</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johirjsaybd&label=Profile%20views&color=0e75b6&style=flat" alt="johirjsaybd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johirjsaybd" alt="johirjsaybd" /></a> </p>
 
