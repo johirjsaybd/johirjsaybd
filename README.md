@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖐 I'm Johir</h1>
 <h3 align="center">Facebook Ads Expert With GA4 & GTM || SEO Expert || Social Media Marketing Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johirjsaybd&label=Profile%20views&color=0e75b6&style=flat" alt="johirjsaybd" /> </p>
+<p align="left"> <[img src="https://komarev.com/ghpvc/?username=johirjsaybd&label=Profile%20views&color=0e75b6&style=flat" alt="johirjsaybd](https://media.licdn.com/dms/image/D5616AQHaDOb99ff43g/profile-displaybackgroundimage-shrink_350_1400/0/1716064812323?e=1721865600&v=beta&t=5Q5XFuh9eYAThY__q8Q0InAzCTe0iRAlmPXN7m-R75k /> </p>
 
 - 🔭 I’m currently working on **Digital Marketing**
 
