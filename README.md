@@ -1,9 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johirjsaybd&label=Profile%20views&color=0e75b6&style=flat" alt="johirjsaybd" /> </p>
-
-<h1 align="center">I'm Johir</h1>
+<h1 align="center">Hi 🖐 I'm Johir</h1>
 <h3 align="center">Facebook Ads Expert With GA4 & GTM || SEO Expert || Social Media Marketing Specialist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johirjsaybd" alt="johirjsaybd" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johirjsaybd&label=Profile%20views&color=0e75b6&style=flat" alt="johirjsaybd" /> </p>
 
 - 🔭 I’m currently working on **Digital Marketing**
 
@@ -25,4 +23,8 @@
 <a href="https://instagram.com/johirjsaybd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johirjsaybd" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johirjsaybd&show_icons=true&locale=en&layout=compact" alt="johirjsaybd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johirjsaybd&show_icons=true&locale=en&layout=compact" alt="johirjsaybd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johirjsaybd&show_icons=true&locale=en" alt="johirjsaybd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johirjsaybd&" alt="johirjsaybd" /></p>
